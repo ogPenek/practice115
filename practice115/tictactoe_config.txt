@@ -1,0 +1,3 @@
+boardSize=10
+player1Name=Гравець 1 (X)
+player2Name=Гравець 2 (O)
